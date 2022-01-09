@@ -1,32 +1,32 @@
 # Blogs and News Papers/Letters
 
-## Darknet
+##### Darknet
 - https://www.darknet.org.uk/
-## Cisco Security Blog
+##### Cisco Security Blog
 - https://blogs.cisco.com/security
-## Bruce Schneier's Blog
+##### Bruce Schneier's Blog
 - https://www.schneier.com/
-## CSO Online
+##### CSO Online
 - https://www.csoonline.com/
-## Hackread
+##### Hackread
 - https://www.hackread.com/
-## Mashable
+###### Mashable
 - https://mashable.com/category/cybersecurity
-## McAfee Security Blog
+###### McAfee Security Blog
 - https://www.mcafee.com/blogs/
-## OWASP
+##### OWASP
 https://owasp.org/
-## Naked Security - Sophos
+##### Naked Security - Sophos
 - https://nakedsecurity.sophos.com/
-## The Guardian Security Hub
+##### The Guardian Security Hub
 - https://www.theguardian.com/technology/data-computer-security
-## TripWire Blog
+##### TripWire Blog
 - https://www.tripwire.com/state-of-security/
-## US-Cert - CISA 
+##### US-Cert - CISA 
 - https://www.cisa.gov/uscert/
-## Hacker News
+##### Hacker News
 - https://thehackernews.com/
-## ZDnet - Zero Day
+##### ZDnet - Zero Day
 - https://www.zdnet.com/blog/security/
 # YouTube Channels
 
