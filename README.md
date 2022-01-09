@@ -1,2 +1,2 @@
 # CS
-Everything Cyber Security related gathered and done by me.
+Everything Cyber Security related gathered and done by me. Enjoy!
