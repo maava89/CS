@@ -30,28 +30,28 @@ https://owasp.org/
 - https://www.zdnet.com/blog/security/
 # YouTube Channels
 
-## Hackersploit
+##### Hackersploit
 - https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
-## The Art of Hacking
+##### The Art of Hacking
 - https://www.youtube.com/theartofhacking
-## Red Team Village
+##### Red Team Village
 - https://www.youtube.com/redteamvillage
-## NullByte
+##### NullByte
 - https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
-## Loi Yang - Ethical Hacker
+##### Loi Yang - Ethical Hacker
 - https://www.youtube.com/c/LoiLiangYang
-## Network Chuck
+##### Network Chuck
 - https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ
 
 # Podcasts
 
-## Darkned Diaries
+##### Darkned Diaries
 - https://darknetdiaries.com/
-## Smashing Security
+##### Smashing Security
 - https://www.smashingsecurity.com/
-## CyberWire
+##### CyberWire
 - https://thecyberwire.com/podcasts
-## Beers with Talos
+##### Beers with Talos
 - https://talosintelligence.com/podcasts/shows/beers_with_talos
-## Down the Security Rabbit Hole
+##### Down the Security Rabbit Hole
 - http://podcast.wh1t3rabbit.net/
