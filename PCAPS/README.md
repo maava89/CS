@@ -1,17 +1,20 @@
-https://github.com/markofu/hackeire/tree/master/2011/pcap
+## List of Packet Captures / Traces (.pcap) repositories and links.
 
-https://www.netresec.com/?page=PcapFiles
 
-https://www.netresec.com/?page=MACCDC
+-https://github.com/markofu/hackeire/tree/master/2011/pcap
 
-https://github.com/zeek/zeek/tree/master/testing/btest/Traces
+-https://www.netresec.com/?page=PcapFiles
 
-https://redmine.openinfosecfoundation.org/projects/suricata/wiki/Public_Data_Sets
+-https://www.netresec.com/?page=MACCDC
 
-https://networkdata.ics.uci.edu/resources.php
+-https://github.com/zeek/zeek/tree/master/testing/btest/Traces
 
-https://github.com/markusring/CIDDS
+-https://redmine.openinfosecfoundation.org/projects/suricata/wiki/Public_Data_Sets
 
-https://www.tcpdump.org/
+-https://networkdata.ics.uci.edu/resources.php
 
-https://www.unb.ca/cic/datasets/index.html
+-https://github.com/markusring/CIDDS
+
+-https://www.tcpdump.org/
+
+-https://www.unb.ca/cic/datasets/index.html
